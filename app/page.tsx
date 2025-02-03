@@ -24,7 +24,7 @@ export default function Page() {
             <VideoIcon size={32} className="text-white" />
           </div>
           <h1 className="text-5xl md:text-6xl font-extrabold text-center bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-500">
-            Talkify
+            Mo Katha
           </h1>
           <p className="text-gray-400 text-center max-w-2xl text-lg">
             Join or create a channel to start your real-time video streaming experience.
